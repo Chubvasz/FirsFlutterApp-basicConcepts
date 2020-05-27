@@ -1,3 +1,8 @@
+## About this
+
+This application is created for educational purposes
+This application contains basic concepts and widgets
+
 # firstapp
 
 A new Flutter project.
