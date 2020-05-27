@@ -3,7 +3,7 @@
 This application is created for educational purposes
 This application contains basic concepts and widgets
 
-[Personal web site](https://eduardonp/)
+[Personal web site](https://eduardonp.com/)
 
 
 ## firstapp
